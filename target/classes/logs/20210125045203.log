@@ -1,0 +1,13 @@
+[25-01-2021:04_01_25]: Framework Initialize
+[25-01-2021:04_01_25]: Configuration properties :: Browser [Chrome] - Device [PC] - Operative System [windows 10]
+[25-01-2021:04_01_25]: Environment null
+[25-01-2021:04_01_25]: Device - Browser initialized :: Platform [WINDOWS] - Browser [chrome] - Version [87.0.4280.141]
+[25-01-2021:04_01_25]: Navigated to URL http://automationpractice.com/index.php
+[25-01-2021:04_01_25]: Click Sign in link
+[25-01-2021:04_01_25]: Fill a valid email
+[25-01-2021:04_01_25]: Click Create an Account button
+[25-01-2021:04_01_25]: Click Sign in link
+[25-01-2021:04_01_25]: Click Create an Account button
+[25-01-2021:04_01_25]: Fill a valid email
+[25-01-2021:04_01_25]: Executed time 00:00:16:16427
+[25-01-2021:04_01_25]: Error found java.lang.AssertionError: expected [My personal information] but found [MY PERSONAL INFORMATION]

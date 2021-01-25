@@ -1,0 +1,88 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3577028900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.Initialize(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Get each country information",
+        "description": "",
+        "id": "task-2---api-automated-test-using;get-each-country-information",
+        "after": [
+          {
+            "result": {
+              "duration": 574061700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4118361700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I validate GET service response",
+            "match": {
+              "location": "ServicesSteps.IValidateGETServiceResponse(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Country"
+                ],
+                "line": 6
+              },
+              {
+                "cells": [
+                  "US"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "DE"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "GB"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@TestReport"
+          }
+        ]
+      }
+    ],
+    "name": "Task 2 - API Automated test using",
+    "description": "",
+    "id": "task-2---api-automated-test-using",
+    "keyword": "Feature",
+    "uri": "services.feature"
+  }
+]

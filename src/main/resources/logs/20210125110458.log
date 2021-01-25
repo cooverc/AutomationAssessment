@@ -1,0 +1,7 @@
+[25-01-2021:11_01_78]: Framework Initialize
+[25-01-2021:11_01_78]: Configuration properties :: Browser [Chrome] - Device [PC] - Operative System [windows 10]
+[25-01-2021:11_01_78]: Environment null
+[25-01-2021:11_01_78]: Device - Browser initialized :: Platform [WINDOWS] - Browser [chrome] - Version [87.0.4280.141]
+[25-01-2021:11_01_78]: I validate GET service response
+[25-01-2021:11_01_78]: Executed time 00:00:06:6271
+[25-01-2021:11_01_78]: Error found java.lang.AssertionError: expected [404] but found [200]

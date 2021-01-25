@@ -1,0 +1,13 @@
+[25-01-2021:02_01_97]: Framework Initialize
+[25-01-2021:02_01_97]: Configuration properties :: Browser [Chrome] - Device [PC] - Operative System [windows 10]
+[25-01-2021:02_01_97]: Environment [Integration]
+[25-01-2021:02_01_97]: Device - Browser initialized :: Platform [WINDOWS] - Browser [chrome] - Version [87.0.4280.141]
+[25-01-2021:02_01_97]: Navigated to URL http://automationpractice.com/index.php
+[25-01-2021:02_01_97]: Executed time 00:00:11:11128
+[25-01-2021:02_01_97]: Error found org.openqa.selenium.InvalidArgumentException: invalid argument
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RM9JG6H5', ip: '192.168.0.187', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\rjcb8\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 97c07860208d09a067e319ab9ba142c3

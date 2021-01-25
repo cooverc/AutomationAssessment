@@ -1,0 +1,8 @@
+[25-01-2021:03_01_24]: Framework Initialize
+[25-01-2021:03_01_24]: Configuration properties :: Browser [Chrome] - Device [PC] - Operative System [windows 10]
+[25-01-2021:03_01_24]: Environment null
+[25-01-2021:03_01_24]: Device - Browser initialized :: Platform [WINDOWS] - Browser [chrome] - Version [87.0.4280.141]
+[25-01-2021:03_01_24]: Navigated to URL http://automationpractice.com/index.php
+[25-01-2021:03_01_24]: Click Sign in link
+[25-01-2021:03_01_24]: Fill a valid email
+[25-01-2021:03_01_24]: Click Create an Account button

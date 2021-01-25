@@ -1,0 +1,6 @@
+[25-01-2021:02_01_68]: Framework Initialize
+[25-01-2021:02_01_68]: Configuration properties :: Browser [Chrome] - Device [PC] - Operative System [windows 10]
+[25-01-2021:02_01_68]: Environment [Integration]
+[25-01-2021:02_01_68]: Device - Browser initialized :: Platform [WINDOWS] - Browser [chrome] - Version [87.0.4280.141]
+[25-01-2021:02_01_68]: Navigated to URL http://automationpractice.com/index.php
+[25-01-2021:02_01_68]: Click Sign in link
